@@ -1,0 +1,4 @@
+venv
+*.pyc
+users_space.txt
+__pycache__/
